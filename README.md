@@ -8,7 +8,8 @@
    [![Issues](https://img.shields.io/github/issues/R3nzTheCodeGOD/R3nzSkin.svg?style=plastic)](https://github.com/R3nzTheCodeGOD/R3nzSkin/issues)
    ![Windows](https://github.com/R3nzTheCodeGOD/R3nzSkin/workflows/Windows/badge.svg?branch=main&event=push)
 
-   # **R3nzSkin**
+   # **R3nzSkin4Tencent**
+   ##众所周知，马服客户端不仅魔改，而且版本会有差别，这个就是为了解决League of legends.exe版本不一致导致无法使用的问题。如果原项目R3nzSkin无问题，请优先使用R3nzSkin提供的dll，本项目也不会更新。直至...我有时间，并且原版R3nzSkin无效的时候。
 
    ## Announcement
    R3nzSkin will no longer be supported by 2024 due to Riot Games implementing <a href="https://support-leagueoflegends.riotgames.com/hc/en-us/articles/24169857932435-Riot-Vanguard-League-of-Legends-">Valorant's Vanguard anti-cheat to League of Legends</a>
